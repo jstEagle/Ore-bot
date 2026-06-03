@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "title": "Ore Bot",
+  "description": "A Python automation bot for working with the ORE ecosystem.",
+  "tags": [
+    "Python",
+    "Automation",
+    "Crypto"
+  ],
+  "featured": false,
+  "order": 185,
+  "links": {
+    "repo": "https://github.com/jstEagle/Ore-bot"
+  },
+  "images": []
+}
